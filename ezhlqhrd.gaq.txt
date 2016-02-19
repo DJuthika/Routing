@@ -1,0 +1,30 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   .classpath
+#	new file:   .project
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   Fibonacci-heaps-in-Java
+#	new file:   bin/Arrange.class
+#	new file:   bin/Fibonacci.class
+#	new file:   bin/FibonacciHeapNode.class
+#	new file:   bin/Graph$DefGraph.class
+#	new file:   bin/Graph.class
+#	new file:   bin/MakefileC
+#	new file:   bin/Tries$TrieNode.class
+#	new file:   bin/Tries.class
+#	new file:   bin/routing.class
+#	new file:   bin/ssp.class
+#	new file:   desktop.ini
+#	new file:   src/Arrange.java
+#	new file:   src/Fibonacci.java
+#	new file:   src/FibonacciHeapNode.java
+#	new file:   src/Graph.java
+#	new file:   src/Makefile
+#	new file:   src/Tries.java
+#	new file:   src/routing.java
+#	new file:   src/ssp.java
+#
+
